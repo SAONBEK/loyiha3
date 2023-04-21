@@ -1,0 +1,81 @@
+.lan:hover {
+    cursor: pointer;
+    text-decoration: underline blue;
+}
+
+.navbar-brand:hover{
+cursor: pointer;
+text-decoration: underline blue;
+box-sizing: border-box;
+color: darkblue;
+}
+
+.by {
+    display: flex;
+}
+
+.by :hover {
+    cursor: pointer;
+    text-decoration: underline blue;
+}
+
+.img-fluid:hover {
+    cursor: pointer;
+    filter: brightness(80%) hue-rotate(45deg);
+    transform: scale(1.02);
+    cursor: pointer;
+    transition: all 0.4s;
+}
+
+.d {
+    opacity: 0.1;
+    padding-left: 22px;
+}
+
+.d:hover {
+    cursor: pointer;
+    text-decoration: underline blue;
+}
+
+.sar{
+    padding-left: 125px;
+}
+.japan h3:hover {
+    cursor: pointer;
+    text-decoration: underline blue;
+}
+
+.japan p{
+    padding-left: 21px;
+}
+.japan p:hover {
+    cursor: pointer;
+    text-decoration: underline blue;
+}
+
+.card-body h5,
+h6,
+h3,
+img {
+    padding-left: 20px;
+}
+
+.card-body img:hover {
+    cursor: pointer;
+    filter: brightness(80%) hue-rotate(45deg);
+    transform: scale(1.04);
+    transition: all 0.4s;
+}
+
+.border-dark:hover {
+    cursor: pointer;
+    text-decoration: underline blue;
+
+}
+
+.rasm img:hover{
+cursor: pointer;
+filter: brightness(80%) hue-rotate(45deg);
+transform: scale(1.12);
+transition: all 0.25s;
+}
